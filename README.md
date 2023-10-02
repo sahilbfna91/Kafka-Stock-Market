@@ -11,12 +11,10 @@ Here we have used different technologies such as Python, Amazon Web Services (AW
 ## Technology Used
 - Programming Language - Python
 - Amazon Web Service (AWS)
-1. S3 (Simple Storage Service)
-2. Athena
-3. Glue Crawler
-4. Glue Catalog
-5. EC2
 - Apache Kafka
-
-
-Here is the dataset used in the video - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project/blob/main/indexProcessed.csv
+1. Apache Kafka
+2. S3 (Simple Storage Service)
+3. Athena
+4. Glue Crawler
+5. Glue Catalog
+Here is the dataset used - https://drive.google.com/file/d/1etv-baJDYj9G6azTCzH2NjGJyu2E7Fsd/view?usp=drive_link
